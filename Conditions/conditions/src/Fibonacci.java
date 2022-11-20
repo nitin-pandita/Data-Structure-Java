@@ -12,7 +12,7 @@ public class Fibonacci {
 
             int temp = b; //
             b = b + a; // changing the value of b to new number.
-            a = temp; // changing the value of a to b
+            a = temp; // changing the value of b to a
             count++;
 
         }
