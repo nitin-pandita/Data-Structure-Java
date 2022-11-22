@@ -16,7 +16,7 @@ public class Couting_Occurance {
         while(number > 0){
             int rem = number % 10; // it will give us the last element
 
-            if(rem == find){ // comaparing if rem and find are equal
+            if(rem == find){ // comparing if rem and find are equal
                 count++;
             }
             number /= 10; // removing the last elements
