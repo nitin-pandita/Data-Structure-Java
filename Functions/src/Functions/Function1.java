@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class Function1 {
     public static void main(String[] args) {
-        sum();
+        int ans = sum2();
+
+        System.out.println(ans);
     }
     // return the value
 //    int + int  = int
