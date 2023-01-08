@@ -23,7 +23,7 @@ public class Input {
         }
         for (int i = 0; i < arr.length; i++) {
             System.out.println("At index "+i+" value is " +arr[i]);
-
+            System.out.println("Thank you");
         }
     }
 }
