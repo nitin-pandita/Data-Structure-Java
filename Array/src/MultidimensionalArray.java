@@ -19,13 +19,22 @@ public class MultidimensionalArray {
         }
 
         // output
-        for (int row = 0; row < num.length; row++) {
-            for (int col = 0; col < num[row].length; col++){
-                System.out.print(num[row][col] + " ");
-            }
-            System.out.println();
-        }
+//        for (int row = 0; row < num.length; row++) {
+//            for (int col = 0; col < num[row].length; col++){
+//                System.out.print(num[row][col] + " ");
+//            }
+//            System.out.println();
+//        }
+        // output 2
+//        for (int row = 0; row < num.length; row++) {
+//            System.out.println(Arrays.toString(num[row]));
+//        }
 
+        // Enhanced for Loop
+        for (int [] a: num
+             ) {
+            System.out.println(Arrays.toString(a));
+        }
 
 //        System.out.println(num[1][0]); // here we are accessing arr 1 and 0th element
     }
