@@ -17,7 +17,19 @@ public class SearchStrings {
         }
         return -1;
     }
-
+    // for each loop
+    static boolean search3(String name, char target) {
+        if (name.length() == 0) { // here length is a function not a variable
+            return false;
+        }
+        for (int ch:name.toCharArray() // toCharArray is creating an Array with character eg: [K,a,r,t,i,k]
+             ) {
+            if(ch == target){
+                return true;
+            }
+        }
+        return false;
+    }
     static boolean search(String name, char target) {
         if (name.length() == 0) { // here length is a function not a variable
             return false;
