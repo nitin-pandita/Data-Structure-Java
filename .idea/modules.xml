@@ -5,9 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/Array_Assignment/Array_Assignment.iml" filepath="$PROJECT_DIR$/Array/Array_Assignment/Array_Assignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignments/Assignments.iml" filepath="$PROJECT_DIR$/Assignments/Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/Searching/BinarySearch/BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data-Structure-With-Java/Data-Structure-With-Java.iml" filepath="$PROJECT_DIR$/Data-Structure-With-Java/Data-Structure-With-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data-Structure-with-Java.iml" filepath="$PROJECT_DIR$/Data-Structure-with-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Functions/Functions.iml" filepath="$PROJECT_DIR$/Functions/Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching/LeetCode Problems/LeetCode Problems.iml" filepath="$PROJECT_DIR$/Searching/LeetCode Problems/LeetCode Problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/Searching/Searching.iml" filepath="$PROJECT_DIR$/Searching/Searching.iml" />
       <module fileurl="file://$PROJECT_DIR$/first-intellj-program/first-intellj-program.iml" filepath="$PROJECT_DIR$/first-intellj-program/first-intellj-program.iml" />
     </modules>
