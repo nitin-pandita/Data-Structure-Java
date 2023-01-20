@@ -4,6 +4,8 @@
 
 - Functions 
 - Array
+- Linear Search
+- Binary Search
 - Link List
 - Breadth for Search
 - Algorithms
