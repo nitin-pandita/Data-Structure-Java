@@ -16,10 +16,8 @@ public class Floor {
 
                 if(target > arr[mid]){
                     start = mid +1;
-                } else if (target < arr[mid]) {
-                    end = mid - 1;
                 }else{
-                    return mid;
+                    end = mid -1;
                 }
             }
             // if not in the while loop mean not in the array it will be outside of start and end
