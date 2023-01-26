@@ -14,5 +14,4 @@ public class RunningSum1D {
             // second index     // previous index
         }
         return arr;
-    }
-}
+    }}
