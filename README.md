@@ -31,7 +31,7 @@ Data structure and Algorithm is the concept that is mainly focused on.
 - Binary Search in 2D Arrays
 
 
-## Tech Stack
+## Tech Stack in
 
 **Language:** Java
 
