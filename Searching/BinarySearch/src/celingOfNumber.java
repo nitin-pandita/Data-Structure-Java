@@ -1,15 +1,13 @@
 public class celingOfNumber {
     public static void main(String[] args) {
         int [] arr = {12,34,56,67,78,88,90};
-        int target = 11;
+        int target =34;
         System.out.println(ceiling(arr,target));
     }
 
     // ceiling mean smallest element in array greater than or equal to the target
     static int ceiling(int [] arr,int target) {
-        if (target > arr.length - 1) {
-            return -1;
-        }
+
             int start = 0;
             int end = arr.length - 1;
 
